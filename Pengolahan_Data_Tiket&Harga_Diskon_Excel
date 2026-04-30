@@ -1,0 +1,37 @@
+📊 Pengolahan Data Tiket dan Harga Diskon di Excel
+Deskripsi
+Proyek ini berfokus pada pengolahan data tiket penumpang menggunakan Microsoft Excel dengan mengekstrak informasi dari kode tiket dan menghitung harga serta diskon.
+
+Dataset
+Data terdiri dari:
+- Nama penumpang
+- Kode tiket
+- Kelas (Ekonomi, Bisnis, Executive)
+- Jenis tiket (Anak, Dewasa, Lansia)
+- Tahun lahir
+- Harga awal
+- Diskon 10%
+- Harga setelah diskon
+
+Tools & Fungsi yang Digunakan
+- Microsoft Excel
+- Fungsi teks (LEFT, MID, RIGHT)
+- Fungsi IF
+- Perhitungan persentase (diskon)
+- Sorting data
+
+Hasil Analisis
+- Kode tiket berhasil diuraikan menjadi informasi lengkap
+- Harga awal dan diskon dihitung otomatis
+- Data lebih terstruktur dan mudah dianalisis
+
+Tujuan Proyek
+- Melatih pengolahan data berbasis kode
+- Memahami fungsi teks di Excel
+- Menggabungkan beberapa fungsi Excel dalam satu analisis
+
+Insight
+Excel dapat digunakan untuk mengolah data kompleks seperti kode tiket menjadi informasi yang lebih jelas dan terstruktur.
+
+Penutup
+Proyek ini merupakan latihan pengolahan data lanjutan menggunakan fungsi teks dan logika di Excel.
